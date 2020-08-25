@@ -2,6 +2,10 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"Babel",
+		"Git",
+		"GitGutter",
+		"SublimeLinter-rubocop"
 	],
 	"installed_packages":
 	[
